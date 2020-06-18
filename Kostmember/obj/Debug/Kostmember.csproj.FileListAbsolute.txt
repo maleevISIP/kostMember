@@ -1,0 +1,7 @@
+C:\Users\vinchi\Desktop\прога\ооп1\спизженка2\Kostmember\Kostmember\bin\Debug\Kostmember.exe.config
+C:\Users\vinchi\Desktop\прога\ооп1\спизженка2\Kostmember\Kostmember\bin\Debug\Kostmember.exe
+C:\Users\vinchi\Desktop\прога\ооп1\спизженка2\Kostmember\Kostmember\bin\Debug\Kostmember.pdb
+C:\Users\vinchi\Desktop\прога\ооп1\спизженка2\Kostmember\Kostmember\obj\Debug\Kostmember.csprojAssemblyReference.cache
+C:\Users\vinchi\Desktop\прога\ооп1\спизженка2\Kostmember\Kostmember\obj\Debug\Kostmember.csproj.CoreCompileInputs.cache
+C:\Users\vinchi\Desktop\прога\ооп1\спизженка2\Kostmember\Kostmember\obj\Debug\Kostmember.exe
+C:\Users\vinchi\Desktop\прога\ооп1\спизженка2\Kostmember\Kostmember\obj\Debug\Kostmember.pdb
